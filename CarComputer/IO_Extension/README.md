@@ -8,6 +8,6 @@ To assess the performance of our solar cells, we need to measure the brightness 
 
 # Brightenss
 
-![Alt Text](https://drive.google.com/uc?export=view&id=1-YKOJx6ln_dEuKU-ub7NoreBVVY-lmM)
+![Alt Text](https://drive.google.com/file/d/1-YKOJx6ln_dEuKU-ub7NoreBVVY-lmM8)
 
 Through this program, we expect to receive a percentage indicating the light level detected by the photocell. A reading of 100% represents the maximum light exposure, while 0%-10% indicates extremely dark conditions. A 50% reading corresponds to typical indoor lighting.
